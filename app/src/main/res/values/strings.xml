@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">STMobile</string>
+    <string name="enviar">Enviar</string>
+    <string name="enviado">Enviado</string>
+    <string name="expedi_o">Expedição</string>
+    <string name="outro">Outro</string>
+    <string name="caique">Caique</string>
+    <string name="igor">igor</string>
+</resources>
